@@ -18,5 +18,6 @@ build_script:
 
     copy src\RhinoInside.Revit.Setup\bin\x64\Release\RhinoInside.Revit.msi .
 
-artifacts:
-- path: RhinoInside.Revit.msi
+# disabled (see #110)
+#artifacts:
+#- path: RhinoInside.Revit.msi
